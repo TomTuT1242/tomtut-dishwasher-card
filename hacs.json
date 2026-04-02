@@ -1,0 +1,6 @@
+{
+  "name": "TomTuT Dishwasher Card",
+  "type": "plugin",
+  "render_readme": true,
+  "filename": "tomtut-dishwasher-card.js"
+}
